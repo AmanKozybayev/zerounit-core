@@ -7,7 +7,7 @@ ZEROUNIT_REGISTRY = {
     "LABOR":{
         "base_volume":8.0,
         "unit":"hours",
-        "descriprtion":"Standard working day space-time (human kinetic energy capacity)"
+        "description":"Standard working day space-time (human kinetic energy capacity)"
         #standard daily working hours are set as human labor daily standard
     },
     #everything that burns and releases energy, that's why fuel is not in liquids or bulks

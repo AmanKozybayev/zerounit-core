@@ -1,1 +1,5 @@
 first_concepts.ipynb
+
+#cachignore 
+**/__pycache__/
+*.pyc
